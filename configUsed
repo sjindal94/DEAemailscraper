@@ -1,0 +1,8 @@
+https://www.mailinator.com/ -1 31
+Message: no such element: Unable to locate element: {"method":"class name","selector":"form-control"}
+  (Session info: chrome=70.0.3538.102)
+  (Driver info: chromedriver=70.0.3538.67 (9ab0cfab84ded083718d3a4ff830726efd38869f),platform=Linux 4.15.0-38-generic x86_64)
+
+https://www.mailinator.com/ -1 67
+EXCEPTION IN (emailscraper.py, LINE 72 "rows = tableElement.find_elements(By.TAG_NAME, "tr")"): 'NoneType' object has no attribute 'find_elements'
+https://www.mailinator.com/ -1 68
