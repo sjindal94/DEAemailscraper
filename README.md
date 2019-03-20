@@ -36,7 +36,7 @@ To run the thing, these are the exact steps
 
 ## Authors
 
-* [**Shubham Jindal**](https://github.com/PurpleBooth)
+* [**Shubham Jindal**](https://github.com/sjindal94)
 
 
 ## License
